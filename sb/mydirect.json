@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "1210923.xyz",
+        "kumanine.dpdns.org",
+        "kuma9.dpdns.org",
+        "seedhub.cc",
+        "open-vsx.org",
+        "2468c.com",
+        "api.pwnedpasswords.com",
+        "====== sony ======",
+        "#opendevices.sony.net",
+        "======= 微软邮箱 ======",
+        "outlook.cloud.microsoft",
+        "outlook.office.com",
+        "safelinks.protection.outlook.com",
+        "#====== nsfw ======",
+        "zbaks-momla.alonestreaming.com",
+        "homi-doki-mani.mushroomtrack.com",
+        "#====== arch ======",
+        "gitlab.freedesktop.org",
+        "download.windowsupdate.com",
+        "archive.archlinux.org",
+        "archlinux.org",
+        "archlinuxcn.org",
+        "======cloudflare======",
+        "#challenges.cloudflare.com",
+        "#cloudflare-ech.com",
+        "#cloudflare.com",
+        "====== game ======",
+        "lutris.nyc3.cdn.digitaloceanspaces.com",
+        "gamer520.com",
+        "gamers520.com",
+        "steamcdn-a.akamaihd.net",
+        "steamserver.net",
+        "gstore.val.smogfly.com",
+        "shared.cdn.queniuqe.com",
+        "steamstatic.com",
+        "steamdb.info",
+        "------ acggw ------",
+        "acggw.me",
+        "#cdn.jsdelivr.net",
+        "#static.cloudflareinsights.com",
+        "#cdn.bootcdn.net",
+        "steampy.com",
+        "====== wangpan ======",
+        "sharepoint.com",
+        "download2435.mediafire.com",
+        "======狼蛛键盘驱动======",
+        "hub.aulacn.com",
+        "mirrors.dotsrc.org"
+      ]
+    },
+    {
+      "domain_regex": [
+        "====== wangpan.pikpak ======",
+        "^dl-[a-z0-9-]+-?[a-z0-9]*\\.mypikpak\\.net$"
+      ]
+    }
+  ]
+}
