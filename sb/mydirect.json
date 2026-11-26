@@ -3,9 +3,12 @@
   "rules": [
     {
       "domain_suffix": [
+        "====== 自己服务 ======",
         "1210923.xyz",
         "kumanine.dpdns.org",
         "kuma9.dpdns.org",
+        "====== bilibili ======",
+        "www.bilibili.com",
         "seedhub.cc",
         "open-vsx.org",
         "2468c.com",
